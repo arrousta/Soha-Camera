@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Soha Camera</string>
+
+    <string name="channel_name2">Camera Service</string>
+    <string name="channel_description2">Camera is Capturing in Background Service</string>
+
+    <string name="permission_rationale">Please grant location permission to start the service</string>
+    <string name="permission_denied_explanation">You have not granted location permission. So the service cannot be started.</string>
+    <string name="settings">settings</string>
+    <string name="title_alert_no_intenet">No internet</string>
+    <string name="msg_alert_no_internet">Please make sure that you have active internet connection.</string>
+    <string name="no_google_playservice_available">No Google Playservice found. Please install it.</string>
+    <string name="msg_location_service_not_started">Location Tracking Not Started</string>
+    <string name="msg_location_service_started">Location Tracking Started</string>
+    <string name="btn_label_refresh">Refresh</string>
+
+    <string name="channel_name4">Camera Service</string>
+    <string name="channel_description4">Tap for launch activity</string>
+
+    <string name="start_updates">START Process</string>
+    <string name="stop_updates">STOP Process</string>
+
+    <string name="error_permission">This permission required for app to work properly, So ask me again</string>
+    <string name="ask_again">Ask me again</string>
+    <string name="permissionRequired">Permission Required</string>
+    <string name="permissionRequired_message">This permission required for app to work properly</string>
+    <string name="close">Close app :(</string>
+
+    <string name="error_storage">The storage path required for app to work properly, So ask me again</string>
+    <string name="open_fileManager">Open File Manager</string>
+    <string name="storageRequired">Storage path Required</string>
+    <string name="storagePermissionRequired_message">The storage path required for app to work properly. Select Storage path for App Data in File Manager </string>
+    <string name="StorageSetting">Change Storage path for App Data in File Manager :</string>
+
+    <string name="AppVersion"> Version: 1.0.1</string>
+
+    <string name="about">About</string>
+    <string name="product_by">Product By:</string>
+    <string name="alireza_rousta">Alireza Rousta</string>
+    <string name="email1">Email : iliya.rousta1995@gmail.com</string>
+    <string name="phone1">Phone : +98 917</string>
+    <string name="all_rights_reserved">All Rights Reserved</string>
+
+    <string name="camera_setting">Camera Setting</string>
+    <string name="capture_delay_time">Capture Delay Time :</string>
+    <string name="delay">delay</string>
+    <string name="second">Second</string>
+    <string name="select_picture_size">Select Picture Size : </string>
+    <string name="picture_size">Picture Size</string>
+    <string name="select_picture_orientation">Select Picture Orientation : </string>
+    <string name="orientation">Orientation</string>
+    <string name="description">Description</string>
+    <string name="capture_image_process">Capture Image Process</string>
+
+    <string name="next_step">Next Step</string>
+
+    <string name="storage_setting">Storage Setting</string>
+    <string name="open_file_manager">Open File Manager</string>
+
+</resources>

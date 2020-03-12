@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006494</color>
+    <color name="colorPrimaryDark">#13293d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="locationNote">#ffffff</color>
+    <color name="logoColor">#777777</color>
+
+    <color name="color1">#247ba0</color>
+    <color name="color2">#1b98e0</color>
+    <color name="color3">#e8f1f2</color>
+    <color name="splash">#e8f1f2</color>
+</resources>
