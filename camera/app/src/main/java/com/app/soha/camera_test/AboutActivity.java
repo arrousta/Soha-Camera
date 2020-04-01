@@ -10,3 +10,5 @@ public class AboutActivity extends AppCompatActivity {
         setContentView(R.layout.activity_about);
     }
 }
+
+//about
